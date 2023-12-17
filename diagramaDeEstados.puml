@@ -1,0 +1,11 @@
+@startuml 
+[*] --> Almacen : Crear
+Almacen --> ModificarStock
+ModificarStock --> AgregarProducto
+ModificarStock --> EditarProducto
+ModificarStock --> RetirarProducto
+AgregarProducto --> GuardarCambios
+EditarProducto --> GuardarCambios
+RetirarProducto --> GuardarCambios
+GuardarCambios --> [*]
+@enduml
