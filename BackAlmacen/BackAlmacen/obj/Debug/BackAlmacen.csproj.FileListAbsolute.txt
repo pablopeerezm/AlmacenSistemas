@@ -113,3 +113,5 @@ C:\Users\pablo\Documents\ATLANTICO\SEGUNDO YR\PRIMER CUATRIMESTRE\NET\BackAlmace
 C:\Users\pablo\Documents\ATLANTICO\SEGUNDO YR\PRIMER CUATRIMESTRE\NET\BackAlmacen\BackAlmacen\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\pablo\Documents\ATLANTICO\SEGUNDO YR\PRIMER CUATRIMESTRE\NET\BackAlmacen\BackAlmacen\bin\System.Threading.Tasks.Extensions.xml
 C:\Users\pablo\Documents\ATLANTICO\SEGUNDO YR\PRIMER CUATRIMESTRE\NET\BackAlmacen\BackAlmacen\bin\System.Web.Http.Cors.xml
+C:\Users\pablo\Documents\ATLANTICO\SEGUNDO YR\PRIMER CUATRIMESTRE\NET\BackAlmacen\BackAlmacen\bin\BCrypt.Net-Next.dll
+C:\Users\pablo\Documents\ATLANTICO\SEGUNDO YR\PRIMER CUATRIMESTRE\NET\BackAlmacen\BackAlmacen\bin\BCrypt.Net-Next.xml
